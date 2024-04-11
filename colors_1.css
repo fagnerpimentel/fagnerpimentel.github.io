@@ -1,0 +1,26 @@
+/* 
+--tea-rose-red: #e1b9b3ff;
+--redwood: #965c54ff;
+--night: #100f10ff;
+--alabaster: #e7e2dbff;
+--black: #0a0808ff; 
+*/
+
+body{
+    background-color: #e7e2dbff;
+}
+header, footer{
+    background-color: #100f10ff;
+    color: #e7e2dbff;
+}
+nav{
+    background-color: #965c54ff;
+    color: #e7e2dbff;
+}
+aside{
+    background-color: #965c54ff;
+    color: #e7e2dbff;
+}
+main{
+    background-color: #e1b9b3ff;    
+}

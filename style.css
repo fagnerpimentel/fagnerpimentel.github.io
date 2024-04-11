@@ -1,0 +1,61 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    width: 100%;
+}
+header, footer{
+    display: flex;
+    justify-content: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+#content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 60%;
+}
+#fig_profile figcaption{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+}
+#fig_profile figcaption h2,h3{
+    padding: 0px;
+    margin: 0px;
+}
+#fig_profile img{
+    width: 200px;
+    height: auto;
+}
+aside{
+    display: flex;
+    flex-direction: column;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.bold{
+    font-weight: bold;
+}
+hr{
+    width: 100%;
+}
+ul{
+    
+}
